@@ -1,2 +1,2 @@
 # APS-Progetto
-Progetto di Analisi e Progettazione Software creato in collaborazione con J.L.Z.
+Progetto di Analisi e Progettazione Software creato in collaborazione con @tibe97
